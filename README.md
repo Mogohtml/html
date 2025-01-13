@@ -5,22 +5,22 @@
 
 Не забудьте отметить "репост", если вам понравился сайт
 # 🎥 Презентация
-![demo](./mogo_gif.MP4)
+![demo](./video_info.gif)
 
 # 📸 Скриншоты
 Приведенные ниже скриншоты сделаны на эмуляторе Android.
 
 | 1 | 2|
 |------|-------|
-|<img src="./screenshots/1.png" width="300">|<img src="screenshots/2.png" width="300">|
+|<img src="./screenshots/1.jpg" width="300">|<img src="screenshots/2.jpg" width="300">|
 
 | 3 | 4|
 |------|-------|
-|<img src="screenshots/3.png" width="300">|<img src="screenshots/4.png" width="300">|
+|<img src="screenshots/3.jpg" width="300">|<img src="screenshots/4.jpg" width="300">|
 
 
 | 5 | 6|
 |------|-------|
-|<img src="screenshots/5.png" width="300">|<img src="screenshots/6.png" width="300">|
+|<img src="screenshots/5.jpg" width="300">|<img src="screenshots/6.jpg" width="300">|
 
 
